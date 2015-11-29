@@ -169,8 +169,7 @@ h2 {
    position: absolute; 
    bottom: 20px; 
    width: 500px; 
-   text-align: right;
-   right: 70px;
+   right:1px;
    z-index:2;
 }
 
@@ -179,8 +178,7 @@ h4{
    position: absolute; 
    bottom: 0px; 
    width: 100px; 
-   text-align: right;
-   right: 35px;
+   right: 65px;
    z-index:2;
 }
 
