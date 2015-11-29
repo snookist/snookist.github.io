@@ -168,9 +168,9 @@ h2 {
    color:white;
    position: absolute; 
    bottom: 20px; 
-   width: 300px; 
+   width: 500px; 
    text-align: right;
-   right: 60px;
+   right: 70px;
    z-index:2;
 }
 
@@ -180,7 +180,7 @@ h4{
    bottom: 0px; 
    width: 100px; 
    text-align: right;
-   right: 25px;
+   right: 35px;
    z-index:2;
 }
 
@@ -247,7 +247,7 @@ h4{
 .albumphoto{
 	width:300px;
 	height:200px;
-	background-color:purple;
+	
 	position: absolute;
 	margin: 5px;
 }
