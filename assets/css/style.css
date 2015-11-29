@@ -167,7 +167,7 @@ img{
 h2 { 
    color:white;
    position: absolute; 
-   bottom: 20px; 
+   bottom: 5px; 
    width: 500px; 
    right:1px;
    z-index:2;
@@ -176,7 +176,7 @@ h2 {
 h4{
    color:white;
    position: absolute; 
-   bottom: 0px; 
+   bottom: -20px; 
    width: 100px; 
    right: 65px;
    z-index:2;
